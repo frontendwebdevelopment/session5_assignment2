@@ -1,1 +1,3 @@
-$( demo_form.elements ).hide();
+$(document).ready(
+$( demo_form.elements ).hide()
+);
